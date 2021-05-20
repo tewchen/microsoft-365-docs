@@ -34,6 +34,10 @@ Microsoft Defender for Endpoint Device Control Removable Storage Access Control 
 |User-based Support     |   Yes      |
 |Machine-based Support    |    Yes     |
 
+
+   > [!NOTE]
+   > None of Windows Security components need to be active, you can run Endpoint DLP independent of Windows Security status.
+
 ## Prepare your endpoints
 
 Deploy Removable Storage Access Control on Windows 10 devices that have Anti-malware Client Version **4.18.2103.3 or later**.
